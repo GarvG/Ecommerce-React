@@ -1,0 +1,14 @@
+:root{
+    --black:#555;
+    --white:#fff;
+}
+.home-container{
+    max-width: 82rem;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+.Cover-wrapper{
+background: radial-gradient(var(--white),var(--black));
+}
